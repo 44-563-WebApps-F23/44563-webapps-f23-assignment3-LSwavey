@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-![IMG_6629}(https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-LSwavey/edit/main/README.md)
+![IMG_6629](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-LSwavey/edit/main/README.md)
