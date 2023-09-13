@@ -2,5 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-![IMG_6628](https://github.com/LSwavey/my2-Swavey/assets/99366342/72f89dc3-2b41-4b7e-9029-7f8c6d9d6c6f)
-
+![ca](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-LSwavey/edit/main/README.md)
