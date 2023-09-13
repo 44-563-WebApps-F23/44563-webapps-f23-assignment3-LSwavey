@@ -2,4 +2,5 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at https://github.com/settings/pages
+Hosted at https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-LSwavey/settings/pages
+
